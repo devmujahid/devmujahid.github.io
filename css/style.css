@@ -32,7 +32,7 @@ span {
 }
 a {
     text-decoration: none;
-    color: #f12365;
+    color: #ffffe3;
     outline: none;
     -webkit-transition: color .2s ease-in-out;
     transition: color .2s ease-in-out;
@@ -987,6 +987,22 @@ body.out .menu-container.active .submenu-close.active {
 }
 .copyright-area p span {
     color: #f12365;
+}
+
+.contact{
+    padding: 50px 0 10px 0;
+    text-align: center;
+}
+
+.contact h2{
+    font-size: 3em;
+    text-align: center;
+    letter-spacing: 0.18em;
+    margin: 0 0 10px;
+}
+
+.contact-mail{
+    text-align: center;
 }
 
 /* ------------------------------
